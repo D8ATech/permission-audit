@@ -14,7 +14,7 @@ As with all new software and scripts we strongly encourage you to test in a non 
 
 - To install the script clone it to the system that will run the script using
 
-        git clone https://bitbucket.miwalker.net/scm/scripts/permission-audit.git
+        git clone https://github.com/D8ATech/permission-audit.git
 
 - Prepare the system to be able to run the script by installing the package requirements with pip3
 
